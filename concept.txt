@@ -117,7 +117,7 @@ Very enemy infested area, lots of fights, difficulty curve.
 Area 6 - Termed Optics Lab
  
 Character Concepts
-Main Character (Beldin)
+Main Character 
 
 Character 2
 Species - Evolved Bat
@@ -140,7 +140,7 @@ Character 3
 
 Character 4
 
-Character 5 (Me)
+Character 5 
 Species - Altered Human
 Skills - Long Throw (Allows him to hit objects from afar with his Javalin), Spot Dodge (While still, can dodge an attack, has cooldown).
 Gender - Male
