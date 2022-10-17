@@ -1,0 +1,155 @@
+Metroidvania Idea
+
+#I dunno man, I'm tired, I just finished 'Islets' and it got me thinking. This is inspired by a mix of Hollow Knight, Islets and the battle system of SP:FBW#
+
+General Concept
+You're a small ball of fluff* in a world without light** and the entire goal is to bring light into the world, restoring electricity, ecosystems, so on, so forth.
+*You being a small ball of fluff is a placeholder, but I want something to do with a battery cell, however the player should not realise this until the end.
+**The world used to have light meaning there is a destoryed civilisation now without it.
+You have to navigate your way through a variety of terrains consisting of like 30-50 rooms each and you must bring light to each one.
+The level layout plays on the fact you cant see what you're doing until you light up the room in certain ways.
+As for how they light up the room, I'm thinking character abilities.
+The abilities should be distributed by character.
+In Hollow Knight and Islets, you play as one character and get new abilities, but what if in this, you switch characters for different abilities.
+When the game starts, it introduces you to a team, however you get seperated and by completing certain objectives and/or bosses, you can free/unlock another character.
+The team could start off as the 3 of you and you meet 2 others while exploring the dark.
+I feel as though the characters should be optional but if you unlock and use them, it makes the game easier.
+
+Ability Concept (Explore Ver)
+When it comes to the abilities, I have a couple in mind, all of which are subject to change depending on opinions. 
+I'm not sure but some of the abilities should be triggered, I think, and others periodically and automatic.
+I will draw little sketches to show each one in the folder, external to this Notepad. 
+The images will corrospond with the number in front of each ability concept.
+1) The main character could have an normal light effect round themself, it lasts 5 seconds with a cooldown of 3 seconds, or maybe its permanent, I dont know.
+2) One of the other characters could have a light which they throw like a javalin in front of them, this lights up a trail and sticks into the wall for 5 seconds.
+3) Another could pulsate light, which covers the entire screen but its pulsating from the character in an expanding circle. There will be 6 key points in this.
+4) Then you could have one use a Yoyo or something to spiral light out and then back in again as a trail of the yoyo.
+5) A slow moving 2*character-sized light; a slow but safer way to get around.
+
+Fight Concept
+In Hollow Knight and Islets, the fighting is more like a bullet hell, dodge and then hit repetatively as enemies get faster, higher damage and generally harder to beat.
+However, in this game, I thought it would be an interesting idea to have that only act as the battle initiation.
+If the enemy hits you with one of its attacks, it gets to go first. 
+If you are successful in dodging and hit the enemy with a light ability, you get to start the battle.
+The battle system will be done like South Park: The Fractured But Whole, because admit it, the fighting mechanic was great.
+All the characters you have obtained will be present in the fight.
+The enemy attacks when initiating the fight will be shown a brief outline, giving the players the chance to see and dodge, everything else is black though.
+The actual fight will be gridded, like the game referenced and character attacks will hit according to their abilites.
+Once again, in battle the enemy cant be seen but can be heard, however this will be shown on screen with a marker when they are taking action.
+If you forget where the enemy is on the battle screen while its your turn, jokes on you, get gud.
+So each character shouldn't only have thier ability though, I think a normal attack should work too.
+The normal attacks will also vary in range depending on the character, eg main character attacks one tile in front whereas the Javalin user hits one tile far away.
+To see all the actual combat options, refer to thr 'Ability Concept (Battle Ver)'.
+With this fight system, you can also add levelling into it and a form of MP for the light power attacks.
+You can also use weapons which would be character specific as well as Armour.
+
+Exploring Concept
+In explore mode, just like Islets and Hollow Knight, the exploration is done in that of a 2D platformer.
+You will have a map which will automatically fill in as your light attacks hit it, eg the javalin would light up a line on the map.
+The lights only last a certain amount of time and arent necessary to explore, but it will be damn hard without it.
+There will of course be secret areas you can unlock as well as places you cant get to without an exploration ability you get later on.
+Similar to other games abilities, there could be a wall climb or wall bounce, a dash, a teleport and more.
+In the exploration sence, it is very similar to most other 2D platformers. For examples look at Hollow Knight and Islets, fucking great games.
+Something unique to the exploration is you can harvest and farm materials from enemies and hidden locations. This would be how you get weapons and armour.
+I think there should be an exclusive set for each character which invloves lots of secrets to get secret parts to build it.
+
+Ability Concept (Battle)
+Each Light ability in battle should reflect their exploration light ability.
+Like the 'Ability Concept (Explore Ver)', each ability will be numbered and you can refer to the images in the folder this notepad was in.
+Each number will also corrolate to the same number ability in the other ability section.
+1) The 8 tiles around them light up in a circle around the player.
+2) Throws a Javalin in a straight line either Horizontal or Vertical. This can peirce one enemy but stops upon hitting the second.
+3) Lights up in a hexagonal shape the area one tile away from him. This is a lot easier to show than explain, like its explore version.
+4) Rotates around 3 tiles away, also easier to show. When hitting an enemy, moves in front of them.
+5) Hits the tile in front, high damage, could also be used to buff allies(?).
+There could also be healing abilities which use light magic.
+Normal attacks will follow the same number system.
+1) Deals damage to the any enemies one tile in front and the tile above and below said tile.
+2) Throws the Javalin hitting one spot between 3-5 tiles away, player chooses.
+3) Hits around in a circle, very low damage. Only damages the tiles closest to character but knocks any enemies in a 2 tile radius back a tile.
+4) Throws the yoyo straight, attacks hit like Horses movements in Chess.
+5) Charges forward 2 tiles, stops upon impact, takes tile enemy is on and pushes them back one.
+
+Lighting Up The Envirnoment
+As for lighting up the environment, Im torn between 2 ideas.
+Idea 1 is that after defeating a boss and therefore clearing out the main threat of an area, you can activate a generator.
+This Generator lights up the entire zone so you can explore in the light and be able to move more freely, grind enemies, etc.
+Idea 2 is similar in the generator sense, but you have to go back to each room to find a switch to light up that specific room.
+We could also have this without the generator part. 
+However I feel players a less likely to return and will feel less excited to light up the place as the gimmick would get old quickly.
+
+Stat Concept
+Follows most stat based games.
+Minimum level is 1, Max level is 100
+Gain EXP from fighting or from exploring.
+EXP required to level increases the higher level you are. Stops gaining EXP when level 100.
+ATK (Attack) - How much damage all attacks will do, both light and normal.
+LP (Light Points) - Light attacks could consume this as they are more powerful.
+HP (Health Points) - How much damage they would need to take to be killed.
+LR (Light Regen) - Light should regen over time, different characters generate light as different speeds.
+DEF (Defence) - Higher it is, the more damage is reduced. Not a multiplyer. You see them do 300 damage with 100 def, they would've normally done 400 damage.
+
+Area Concepts
+Personally, I think 6 big areas should be enough, considering there is about 30-50 rooms in each one.
+There should also be at least one safe area with NPCs which can act as shops or just chats to learn lore.
+It would also be fun if each area had a unique gimmick.
+The full map should reprosent different areas of a scientific headquarters. This will make more sense as you read on.
+
+Area 1 - Cietonper (Annogram of Reception) or something more traditional like Reception -> Holding Bay -> Bay + Darkness ->Blight = Blight Bay? Alliteration = catchy?
+Maybe it should be more about Corridors instead of Reception, I only chose reception as it works as a clear beginning and tutorial-like area.
+If its reception, it could have the name soridocrr (crr pronounced sir, like in the language which i dont remember which one it was). OR just Closed Corridors.
+When lit up, very white, decently well preserved? Think of a old reception area for some sort of clinic which is a bit dirty and has some weeds growing in the cracks. 
+The Gimmick of this area I dont know yet.
+
+Area 2 - Enigmatology Lab
+
+Area 3 - The Redangs (Annogram of Gardens) OR Overgrown -> Left Alone -> Vacant + Garden -> Plants -> Bontany = Bontanical Vacancy?
+Thunk of a huge garden, completely overgrown with a few white tiled patways here and there. The tiles are dark grey now cos dirt.
+When lit up, there should be a large variety of bright colours, mostly green as 
+The gimmick here is you can manipulate plant growth. Eg use light ability on plant (Photosynthesis), grow plant, climb plant, get to area you couldnt before.
+Plant in the way? You can destroy it. How is up for debate though
+
+Area 4 - Chemistry Lab
+
+Area 5 - Genetics Lab
+Very enemy infested area, lots of fights, difficulty curve.
+
+Area 6 - Termed Optics Lab
+ 
+Character Concepts
+Main Character (Beldin)
+
+Character 2
+Species - Evolved Bat
+Skills - Dash (Think Shadow Cloak with Badge in Hollow Knight), Gliding
+Gender - Fluid, Joking, he's a dude
+Dominant Hand - Omni
+Holds a typical Bat face, but with 6 legs, like a centaur but full bat. He can rotate his body to be flat like a centipede or even like a Biped.
+When standing still, he is on his 2 back legs but when moving he drops onto 4. All his hands are claw and hook-like.
+He has 2 sets of wings on his back, the lower set much smaller than the other set and are used for boosts of speed.
+His large upper wings have one sharp point on them and while they don't allow him to fly, they allow him to glide.
+These big wings can also wrap around his head making a nail like shape with the top, sharp points of the wings which allows him to attack enemies while dashing.
+Like bats, he is virtually, but not completely blind and has strong sense of hearing and smell.
+
+His ability set I feel fits number 5 as the slow moving light can be similar to Echo-Echo-Echo, Echolocation (I find my way, I find my pray.)
+Also his dash can work as the normal attack, dashing into enemies and his claws can be used for the Echolocation like light attack.
+He is an ally from the beginning of the game and his light power was given to him by the MC.
+He should be the first, if not the second character you unlock.
+
+Character 3
+
+Character 4
+
+Character 5 (Me)
+Species - Altered Human
+Skills - Long Throw (Allows him to hit objects from afar with his Javalin), Spot Dodge (While still, can dodge an attack, has cooldown).
+Gender - Male
+Dominant Hand - Right
+A Human which survived, albeit altered, the Incident which caused the ever-present darkness. He used to be a scientist in the study of Termed Optics.
+The incident was NOT caused by him, though he knew of it's existence before the occurance.
+One alteration he sufferered was his eyes glow a blinding light. He is the only one of the characters who did not get their light ability from the MC.
+When he uses his Javalin, his opens his right eye and you see a flash on-screen as the javalin gets launched in the chosen direction.
+Perhaps this eye light could also be used as a unlockable combat ability to stun.
+As a result of this, he keeps his eyes closed and relies on his other sences, which have become stronger.
+He maintains a combat-ready stance with his left foot forward and left hand out ready to counter anything hostile he comes into contact with.
+The ability set he should have is Ability set 2.
