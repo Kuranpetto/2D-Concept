@@ -100,21 +100,48 @@ Maybe it should be more about Corridors instead of Reception, I only chose recep
 If its reception, it could have the name soridocrr (crr pronounced sir, like in the language which i dont remember which one it was). OR just Closed Corridors.
 When lit up, very white, decently well preserved? Think of a old reception area for some sort of clinic which is a bit dirty and has some weeds growing in the cracks. 
 The Gimmick of this area I dont know yet.
+The boss here will be unique enemy, a guard who is stopping people from going deeper inside the lab as it's dangerous.
+The fight will function like a normal fight, just a bit longer and harder (UwU).
 
 Area 2 - Enigmatology Lab
+This area specialises in puzzles and hidden items, very explorative. I feel, due to this, it should be the second largest area in the game, second only to the Termed Optics Lab.
+Visually, this place takes on more of a horror type theme. Not necessarily scary but like a mix between abandoned lab and haunted house.
+For reference look at the Haunted Castle Zone from Sonic Heroes.
+The gimmick of this area plays into the theme with keys and codes which the player must find and piece together. 
+While this gimmick wont be completely exclusive to this area, it will be highly dominated by them and contain much more difficult ones the further in you go, optionally.
+Your first ally, Character [X], will join the team very shortly after entering this area.
+The boss of this area will keep initiating whenever you enter a certain area, it is virtually impossible to beat with only the 2 characters at such a low level.
+Instead, for the boss, you have to run away fighting normal enemies in the process, Look at the Spontaneous Bootay fight from SP:TFBW for reference.
+You can come back and initiate this boss whenever and try to fight it whenever. It will lock off (body block) about 1/3rd of this entire area.
+Everything behind it is optional and is intended to be something the player comes back to Post Area 5 - The Genetics Lab.
 
 Area 3 - The Redangs (Annogram of Gardens) OR Overgrown -> Left Alone -> Vacant + Garden -> Plants -> Bontany = Bontanical Vacancy?
 Thunk of a huge garden, completely overgrown with a few white tiled patways here and there. The tiles are dark grey now cos dirt.
 When lit up, there should be a large variety of bright colours, mostly green as 
 The gimmick here is you can manipulate plant growth. Eg use light ability on plant (Photosynthesis), grow plant, climb plant, get to area you couldnt before.
-Plant in the way? You can destroy it. How is up for debate though
+Plant in the way? You can destroy it. How is up for debate though.
+The final boss of this area will be a common trope, a sentiant plant, powered by the harnessed light enegy.
+This plant boss is also absorbing the Light of Character [Y], who is trapped. The plant can use alternate versions of Character [Y]'s attacks.
+Character [Y] will join the team upon defeating the area boss.
 
 Area 4 - Chemistry Lab
 
 Area 5 - Genetics Lab
 Very enemy infested area, lots of fights, difficulty curve.
+Should be one of the smallest areas in the game as the focus is on the fighting aspect.
+The gimmick here should be each battle having a unique status ailment for both allied and enemy character. Eg. All characters heal 10% HP per turn or 10% DMG per turn.
+You will also encounter unique enemies which are amalgamations of previous enemies.
+This area will also involve the only fight against a playable character, Character 5: The Javalin user, who will join you after this fight, the last to join your party.
+The fight against Character 5 will be about half way through the area, maybe a bit before and therefore not the final boss, though it should have the difficulty of one.
+The final boss of this area should be an amalgamation of all area-final-bosses fought so far meaning a variety of a 4 different types of attacks, evolved to be stronger.
+For example of the evolved attacks, if one had a beam forward, it could become a beam forward and diagonal or much much heavier hitting.
 
 Area 6 - Termed Optics Lab
+This area should involve the gimmicks of each predecessing area while being much more difficult than all previous areas.
+The area should emphasise that it's the last.
+Aesthetics of this area should be the epitomy of an forgotten lab filled with plants, strange creatures and an ominous tone as it should be bright in a dark way. 
+Honestly that last bit is hard to explain, let me know if you need me to elaborate more to you as right now, I can't think of a better way to word it.
+The boss of this area
  
 Character Concepts
 Main Character 
