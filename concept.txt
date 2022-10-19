@@ -14,6 +14,14 @@ In Hollow Knight and Islets, you play as one character and get new abilities, bu
 When the game starts, it introduces you to a team, however you get seperated and by completing certain objectives and/or bosses, you can free/unlock another character.
 The team could start off as the 3 of you and you meet 2 others while exploring the dark.
 I feel as though the characters should be optional but if you unlock and use them, it makes the game easier.
+The reason the world fell into darkness is because of a botched Science experiment in the lab, which has now been long abandonded.
+The darkness was caused by a machine which sucked up the light and is continuing to do so, removing all light from the world.
+You meet two of the allies before the game starts, so they are friends from the get go.
+In the allies eyes, you are a lone, unknown creature in need of help which upon helping, they obtained a strange light power.
+Your character convinces the two allies pre game to go with you into the lab, they know not why.
+Your goal is to beat the Light absorbing machine, consume its light and restore it to the world.
+The light machine is sentient and is using the light to create an army of strange creature to anhialate any who stand before it.
+If you want more info on this ask. The more I talk to people about this entire concept, the more clear in my mind it becomes.
 
 Ability Concept (Explore Ver)
 When it comes to the abilities, I have a couple in mind, all of which are subject to change depending on opinions. 
@@ -125,6 +133,14 @@ This plant boss is also absorbing the Light of Character [Y], who is trapped. Th
 Character [Y] will join the team upon defeating the area boss.
 
 Area 4 - Chemistry Lab
+Gimmick wise, this area you can find different mineral and materials around to make potions which could make you change size, restore health, LP or even the inverse.
+As for the style, think of a science classroom from school, especially the B107 etc lot as theyre quite dark.
+There shouldnt be many plants here either as the remaining chemicals kill such things wuite quickly.
+On that note, the Gimmick could instead be a timer of sorts, you take damage if you're exposed to the chemicals for too long.
+There can be checkpoints to replenish this as it could be done via a meter located somewhere on the screen.
+For reference of this mechanic, you can look at the Dragonspine Cold Meter from Genshin.
+Then, the boss of this area some creature who has understood the chemicals and uses them effectively in battle, buffing themselves and debuffing your team.
+And just to piss people off, this fucker can heal too, though only once everyn 5 turns or something.
 
 Area 5 - Genetics Lab
 Very enemy infested area, lots of fights, difficulty curve.
@@ -141,15 +157,32 @@ This area should involve the gimmicks of each predecessing area while being much
 The area should emphasise that it's the last.
 Aesthetics of this area should be the epitomy of an forgotten lab filled with plants, strange creatures and an ominous tone as it should be bright in a dark way. 
 Honestly that last bit is hard to explain, let me know if you need me to elaborate more to you as right now, I can't think of a better way to word it.
-The boss of this area
+The boss of this area should be a machine, the machine which caused the darkness disaster and the vessels of the scientists who caused it being used as puppets to protect it.
+As this is the final boss, it should be hands down, the hardest in the game. I think it should be the machine, which doesnt fight, only creates minions.
+These minions are normal enemies you encounter.
+The Scientist puppets act like mini bosses, except all this is happening at once.
+If you kill the machine, all its spawns will drop dead minus the Scientists.
+When each scientist is defeated, they each debuff the machine and its summons in some way. Eg atk down or def down.
  
 Character Concepts
 Main Character 
+Species - Sentient Mechansim (Battery Cell)
+Skills - Roll, Climb
+Gender - Unkown
+Dominant Hand - Not Applicable
+Literally a circular Battery Cell covered in Ionic Dust.
+The other characters are unaware of what their species is until the final area.
+They cannot talk and have no physical body, meaning they roll everywhere.
+They can use the ionic dust to climb flat and vertical surfaces.
+Their roll is also one of the fastest ways to get around and yes, they can jump, though it's more of a bounce.
+There is not meant to be much to their character as thats for the player to decide and relate to them.
+Their set, when it comes to abilities, should be set 1 as it is basic but effective fitting with the character.
+His attacks can be him rolling at enemies instead of actually using some form of wepaon on them.
 
 Character 2
 Species - Evolved Bat
 Skills - Dash (Think Shadow Cloak with Badge in Hollow Knight), Gliding
-Gender - Fluid, Joking, he's a dude
+Gender - GenderFluid - Joking, he's a Male
 Dominant Hand - Omni
 Holds a typical Bat face, but with 6 legs, like a centaur but full bat. He can rotate his body to be flat like a centipede or even like a Biped.
 When standing still, he is on his 2 back legs but when moving he drops onto 4. All his hands are claw and hook-like.
@@ -157,15 +190,40 @@ He has 2 sets of wings on his back, the lower set much smaller than the other se
 His large upper wings have one sharp point on them and while they don't allow him to fly, they allow him to glide.
 These big wings can also wrap around his head making a nail like shape with the top, sharp points of the wings which allows him to attack enemies while dashing.
 Like bats, he is virtually, but not completely blind and has strong sense of hearing and smell.
-
 His ability set I feel fits number 5 as the slow moving light can be similar to Echo-Echo-Echo, Echolocation (I find my way, I find my pray.)
 Also his dash can work as the normal attack, dashing into enemies and his claws can be used for the Echolocation like light attack.
 He is an ally from the beginning of the game and his light power was given to him by the MC.
 He should be the first, if not the second character you unlock.
 
 Character 3
+Species - Minotaur
+Skills - Slam (Destoys Boulders) & Stomp (Destroys weak ground beneath her), Grappling (Via hook like objects and Yoyo)
+Gender - Female
+Dominant Hand - Right
+Going against the species 'norms' is something she takes pride in.
+When most people think of a minotaur, they think of a straight-laced, increadibly powerful, all brute strength, not brainy and more often than not, male.
+She is very complex, somewhat brainy and... well, not a male. The only thing which is true, is she still has heavy power, despite her objections to it.
+Using her strength, she is capable of breaking the floor beneath her with a stomp or punching boulders to make them shatter.
+She views her strength as others being weak more than she is strong.
+She tries to be cool too, though she won't admit it, donning 'fashionable' clothes and a yoyo in combat.
+This yoyo is special however as using her strength combined with a special material, she can snap the string of the yoyo, causing it to harden for a more impactful hit.
+This yoyo is, therefore also more than capable of hooking onto things and carrying people's weight across large gaps.
+The ability set she should use is 4, as she uses a Yoyo and the attacks arew oriented around that.
 
 Character 4
+Species - Cat Mermaid (Top half Cat, Lower half Fish)
+Skills - Swim, Spring (Can launch themselves directly upwards)
+Gender - Female, I guess?
+Dominant Hand - Left
+Literally a walking contradiction, or perhaps swimming is a more fitting word.
+They move faster in water than on ground and is the only one capable of deep diving.
+A Black Cats body is the top half of this creature and the lower half is that of a grey, shiny eel.
+Hates Water despite being agile in it, Loves fish, despite half being one.
+She can coil her eel half and use it to spring upwards when out of water.
+Very loud and goofy, but can also be extremely slick when she needs to be.
+Contrary to cats, she is rather dumb and clumsy when her full focus is not on something.
+The abiltity set she should use could be, and I say could be as I'm not entirely sure, 3.
+I chose Ability 3 for her as the hexagonal points in her abilities could be bubbles, fitting when shes a water based character.
 
 Character 5 
 Species - Altered Human
